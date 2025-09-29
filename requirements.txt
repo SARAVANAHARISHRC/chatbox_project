@@ -1,0 +1,3 @@
+streamlit
+requests
+C:\Users\sarav\chatbot_project
